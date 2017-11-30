@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thierrymichel/vue-svg-sprite.git"
+    "url": "git+https://github.com/torben/vue-svg-sprite.git"
   },
   "keywords": [
     "vue",
